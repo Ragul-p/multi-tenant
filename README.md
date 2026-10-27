@@ -35,7 +35,7 @@ DATABASE_USER=postgres
 DATABASE_PASSWORD=postgres
 DATABASE_NAME=swazei_pos
 
-JWT_SECRET=replace_with_a_strong_random_secret
+JWT_SECRET=secret_code
 JWT_EXPIRES_IN=1d
 
 MOCK_PAYMENT_MODE=SUCCESS
